@@ -1,5 +1,5 @@
 task :publish => :build do
-  sh 'if [[ $(git status -s) ]]; then git add -A . && git commit; fi'
+  sh 'if [[ $(git status -s) ]]; then git add -A . && git commit && git push origin source; fi'
   Dir.chdir('_site') do
     sh 'git init'
     sh 'git add .'
