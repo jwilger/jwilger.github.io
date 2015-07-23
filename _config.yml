@@ -10,3 +10,5 @@ github_username:  jwilger
 
 # Build settings
 markdown: kramdown
+
+paginate: 5
