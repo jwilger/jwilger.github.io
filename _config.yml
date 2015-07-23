@@ -12,3 +12,17 @@ github_username:  jwilger
 markdown: kramdown
 
 paginate: 5
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

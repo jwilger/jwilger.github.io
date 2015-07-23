@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "Ergotron LX Wall Mount System Installed"
+title: Ergotron LX Wall Mount System Installed
 date: 2008-07-21 01:00
-comments: true
-categories: workspace
+categories: work
 ---
 
 Well, it didn't take me long to decide that stand-up was the way to go. On
@@ -12,11 +10,10 @@ use of my Amazon Prime membership to get it delivered this afternoon. I think it
 got delivered around 2 PM and—several hours later—I've got it installed and have
 my new workstation ready to go:
 
-<img
-src="/images/2008/07/ergotron-lx-wall-mount-system-installed/ergotron_lx_system_installed.jpg"
-width="300" />
-
 <!-- more -->
+
+![Photo of installed Ergotron LX System
+=300](/images/2008/07/ergotron-lx-wall-mount-system-installed/ergotron_lx_system_installed.jpg)
 
 The Ergotron is a little difficult to get installed the first time you do it.
 Even though I bought a "complete package" including the wall track, mounting
