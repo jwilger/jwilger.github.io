@@ -15,7 +15,7 @@ lsi: false
 # Build settings
 markdown: kramdown
 
-paginate: 5
+paginate: 20
 
 defaults:
   -
