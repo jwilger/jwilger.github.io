@@ -223,14 +223,28 @@ pre {
   background: url(//badges.strava.com/echelon-sprite-16.png) no-repeat 0 0;
 } 
 
-article {
-  summary {
-    font-size: 1.2rem;
-    font-style: italic;
-    color: grey;
-    margin: 1rem 2rem;
-    padding: 1rem 0;
-    border-bottom: 1px lightgrey solid;
-    border-top: 1px lightgrey solid;
-  }
+h1,h2,h3,h4,h5,h6 {
+  color: #903;
+  font-family: Georgia, serif;
+}
+
+summary {
+  font-size: 1.2rem;
+  font-style: italic;
+  color: grey;
+  margin: 1rem 2rem;
+  padding: 1rem 0;
+  border-bottom: 1px lightgrey solid;
+  border-top: 1px lightgrey solid;
+}
+
+article > p:first-child:first-letter {
+  float: left;
+  color: #903;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+  font-family: Georgia, serif;
 }
