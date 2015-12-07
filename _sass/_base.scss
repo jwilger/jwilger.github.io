@@ -222,3 +222,15 @@ pre {
   width: 16px;
   background: url(//badges.strava.com/echelon-sprite-16.png) no-repeat 0 0;
 } 
+
+article {
+  summary {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: grey;
+    margin: 1rem 2rem;
+    padding: 1rem 0;
+    border-bottom: 1px lightgrey solid;
+    border-top: 1px lightgrey solid;
+  }
+}
