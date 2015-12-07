@@ -8,11 +8,11 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <article class="post-content">
-    <summary>
-      {{ page.excerpt | markdownify }}
-    </summary>
+  <summary>
+  {{ page.excerpt | markdownify }}
+  </summary>
 
+  <article class="post-content">
     {{ content }}
   </article>
 
