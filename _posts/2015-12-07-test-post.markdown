@@ -1,0 +1,10 @@
+---
+title: Test Post
+---
+
+This is a test.
+
+It is nothing more,
+And it is nothing less.
+
+It is also going to disappear shortly.
