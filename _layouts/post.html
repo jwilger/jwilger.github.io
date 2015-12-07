@@ -9,6 +9,10 @@ layout: default
   </header>
 
   <article class="post-content">
+    <summary>
+      {{ page.excerpt | markdownify }}
+    </summary>
+
     {{ content }}
   </article>
 
