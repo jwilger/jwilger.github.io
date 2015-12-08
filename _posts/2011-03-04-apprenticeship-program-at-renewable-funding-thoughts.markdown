@@ -2,8 +2,6 @@
 layout: post
 title: Apprenticeship Program at Renewable Funding - Thoughts?
 date: 2011-03-04 16:09
-comments: true
-categories: [work]
 ---
 
 The [Renewable Funding](http://renewfund.com) technology team is moving into

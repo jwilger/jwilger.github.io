@@ -2,8 +2,6 @@
 layout: post
 title: Switched to Jekyll
 date: 2008-12-21
-comments: true
-categories: meta
 ---
 
 If you're seeing this, then you see that I've stopped hosting my blog on Blogger

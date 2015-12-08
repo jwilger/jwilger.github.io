@@ -2,8 +2,6 @@
 layout: post
 title: Retrospective Facilitation
 date: 2009-01-13
-comments: true
-categories: [teams, work, retrospectives]
 ---
 
 I facilitated my second release retrospective with the ProjectDX team yesterday.

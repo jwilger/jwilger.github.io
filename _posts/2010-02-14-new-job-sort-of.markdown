@@ -2,8 +2,6 @@
 layout: post
 title: New Job (Sort Of)
 date: 2010-02-14
-comments: true
-categories: [personal, work]
 ---
 
 The big news in my life right now is that the company I work for just went

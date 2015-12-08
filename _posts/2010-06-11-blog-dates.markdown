@@ -2,8 +2,6 @@
 layout: post
 title: Blog Dates
 date: 2010-06-11
-comments: true
-categories: meta
 ---
 
 For whatever reason, the combination of Toto, Heroku and/or my implementation

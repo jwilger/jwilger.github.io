@@ -2,8 +2,6 @@
 layout: post
 title: Kinda, Sorta Fixed It
 date: 2010-12-04 21:18
-comments: true
-categories: meta
 ---
 
 I finally got fed up with the fact that the post dates were wrong (you know, for

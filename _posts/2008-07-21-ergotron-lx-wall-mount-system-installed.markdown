@@ -1,7 +1,6 @@
 ---
 title: Ergotron LX Wall Mount System Installed
 date: 2008-07-21 01:00
-categories: work
 ---
 
 Well, it didn't take me long to decide that stand-up was the way to go. On

@@ -2,8 +2,6 @@
 layout: post
 title: 2008 Year-End Review
 date: 2009-01-01
-comments: true
-categories: [personal]
 ---
 
 Wow! Just...wow!

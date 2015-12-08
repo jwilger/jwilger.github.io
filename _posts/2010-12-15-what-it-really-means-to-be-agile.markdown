@@ -2,8 +2,6 @@
 layout: post
 title: What it Really Means to be "Agile"
 date: 2010-12-15 10:00
-comments: true
-categories: [teams, agile, retrospectives]
 ---
 
 Yesterday, Elizabeth Hendrickson posted her [Agile Acid
