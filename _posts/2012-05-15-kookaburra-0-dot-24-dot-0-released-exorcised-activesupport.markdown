@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Kookaburra 0.24.0 Released; Exorcised ActiveSupport"
+title: "Kookaburra 0.24.0 Released - Exorcised ActiveSupport"
 date: 2012-05-15 10:39
-comments: true
 categories: [kookaburra]
 ---
 
