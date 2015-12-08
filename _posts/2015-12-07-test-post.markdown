@@ -1,8 +1,0 @@
----
-title: This is a Test
-excerpt: This is just a test post, and it will be removed shortly. 
----
-
-This is a test. 
-
-It is nothing more, and it is nothing less.
