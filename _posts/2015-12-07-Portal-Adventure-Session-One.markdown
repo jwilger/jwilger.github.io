@@ -1,7 +1,6 @@
 ---
 title: "Portal Adventure: Session One"
 date: 2015-12-07T10:36:28-0800
-commentIssueId: 1
 excerpt: >
   This is the first post in an ongoing series in which I talk about the
   development of "Portal Adventure", a text-based adventure game that my
