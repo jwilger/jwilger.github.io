@@ -154,7 +154,7 @@ Some additional ideas that I have for the game include:
   level is unlocked.
 * Game DSL - rather than random level creation (or in addition to the
   possibility of that?) create the game engine as something into which a
-  seperate "game description" can be loaded, thus allowing a
+  separate "game description" can be loaded, thus allowing a
   content-creator to write new adventures.
   * I wonder if there's a way to use cucumber/gherkin for that? (cue evil
     laugh)
@@ -182,7 +182,7 @@ working on this project and keep your feedback appropriate. :-)
 Also, yes, I am aware that there are _numerous_ libraries and frameworks
 out there that already allow people to create text-based adventure
 games; no need to point them out other than in the context of "I see you
-are attempting to do _X_. You might want to look at how somethign similar
+are attempting to do _X_. You might want to look at how something similar
 was done in _open-source-codebase-Y_."
 
 Remember, the main purpose of this is to help Lachlan learn about
