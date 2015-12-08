@@ -2,8 +2,6 @@
 layout: post
 title: Production Release Workflow with Git
 date: 2011-01-08 20:54
-comments: true
-categories: [software development, teams, workflow, git]
 ---
 
 After growing the [ProjectDX](http://www.projectdx.com) team from three to

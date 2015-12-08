@@ -2,8 +2,6 @@
 layout: post
 title: "Best Chili Recipe Ever"
 date: 2014-10-14 14:32
-comments: true
-categories: Food
 ---
 
 I've had a few requests to share this chili recipe from time to time; 

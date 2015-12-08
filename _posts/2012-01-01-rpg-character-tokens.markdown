@@ -2,8 +2,6 @@
 layout: post
 title: "RPG Character Tokens"
 date: 2012-01-01 14:47
-comments: true
-categories: [RPGs, DIY]
 ---
 
 I recently started playing [Dungeons & Dragons](http://www.wizards.com/dnd/)

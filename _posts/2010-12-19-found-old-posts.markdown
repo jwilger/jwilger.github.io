@@ -2,8 +2,6 @@
 layout: post
 title: "Found: Old Posts"
 date: 2010-12-19 03:08
-comments: true
-categories: meta
 ---
 
 And in other exciting news, I found a bunch of my old blog posts archived in

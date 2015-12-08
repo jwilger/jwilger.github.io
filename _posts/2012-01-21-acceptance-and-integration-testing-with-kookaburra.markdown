@@ -2,8 +2,6 @@
 layout: post
 title: "Acceptance and Integration Testing with Kookaburra"
 date: 2012-01-21 20:57
-comments: true
-categories: [projects, ruby, testing, kookaburra, software]
 ---
 
 **UPDATE (2012-01-22):** *I realized this morning that the credit I gave to [Sam

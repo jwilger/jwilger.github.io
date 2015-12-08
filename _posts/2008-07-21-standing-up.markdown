@@ -2,8 +2,6 @@
 layout: post
 title: Standing Up
 date: 2008-07-21
-comments: true
-categories: workspace
 ---
 
 I've succumbed to the influence of all the cool kids on the block and decided to

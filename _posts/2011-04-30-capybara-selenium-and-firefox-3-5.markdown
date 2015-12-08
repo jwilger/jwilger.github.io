@@ -2,8 +2,6 @@
 layout: post
 title: Capybara, Selenium and Firefox 3.5
 date: 2011-04-30 20:08
-comments: true
-categories: [software development, testing, cucumber]
 ---
 
 I banged my head against this one while setting up our CI build for a new

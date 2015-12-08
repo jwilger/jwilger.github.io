@@ -2,8 +2,6 @@
 layout: post
 title: "Switched to Octopress"
 date: 2011-12-20 11:12
-comments: true
-categories: meta
 ---
 
 Sometimes it seems the only time I post to my website anymore is when I decide

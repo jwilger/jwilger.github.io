@@ -2,8 +2,6 @@
 layout: post
 title: "Using Jeweler for Private Gems"
 date: 2012-01-25 11:41
-comments: true
-categories: [programming, ruby]
 ---
 
 I really like using [Jeweler] [1] to create and manage gems, but its default

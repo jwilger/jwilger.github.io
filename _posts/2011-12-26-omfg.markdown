@@ -2,8 +2,6 @@
 layout: post
 title: "OMFG"
 date: 2011-12-26 17:34
-comments: true
-categories: [life, humor, photography]
 ---
 
 !['An image of a man covering his face with his hand and wearing a shirt

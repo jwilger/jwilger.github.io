@@ -2,7 +2,6 @@
 layout: post
 title: "Kookaburra 0.24.0 Released - Exorcised ActiveSupport"
 date: 2012-05-15 10:39
-categories: [kookaburra]
 ---
 
 I just released version 0.24.0 of [Kookaburra][K] to

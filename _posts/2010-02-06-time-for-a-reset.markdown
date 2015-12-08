@@ -2,8 +2,6 @@
 layout: post
 title: Time for a Reset
 date: 2010-02-06
-comments: true
-categories: meta
 ---
 
 Hello, World! (?)

@@ -2,8 +2,6 @@
 layout: post
 title: "tmux and the OSX Clipboard"
 date: 2012-04-12 10:48
-comments: true
-categories: [software, osx, tmux, howto]
 ---
 
 I started using [tmux][tmux] recently after a) I was informed that GNU screen is

@@ -2,8 +2,6 @@
 layout: post
 title: "Kookaburra Rewrite for 0.15.1"
 date: 2012-03-10 16:25
-comments: true
-categories: [projects, ruby, testing, kookaburra, software]
 ---
 
 After getting some good feedback on [Kookaburra] [Kookaburra] since the original
