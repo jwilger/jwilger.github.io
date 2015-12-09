@@ -2,16 +2,16 @@
 title: Saffron and Bourbon Chicken Soup
 date: 2015-12-08 19:00 PST
 excerpt: >
-  This relatively easy to make chicken soup is wonderful for treating
-  family members who have winter colds and also has a delightfully
-  complex flavor.
+  This relatively easy to make chicken soup with a delightfully complex
+  flavor will probably become my go-to comfort food for treating winter
+  colds. Serve it with homemade, buttermilk biscuits, of course.
 
 ---
 
 Managing food supplies in a household that alternates between weeks
 where there are seven people to feed and weeks where there are only
 three of us here generally means we have one week where the menu has
-been planned out in advance—where that plan takes as much advantage of
+been planned out in advance—a plan takes as much advantage of
 bulk-buying as possible—followed by a week where we try to make due with
 whatever is left after the <s>viking horde has pillaged our food
 store</s> majority of our kids go to stay with their mom. Often that
