@@ -11,7 +11,7 @@ excerpt: >
 Managing food supplies in a household that alternates between weeks
 where there are seven people to feed and weeks where there are only
 three of us here generally means we have one week where the menu has
-been planned out in advance—a plan takes as much advantage of
+been planned out in advance—a plan that takes as much advantage of
 bulk-buying as possible—followed by a week where we try to make due with
 whatever is left after the <s>viking horde has pillaged our food
 store</s> majority of our kids go to stay with their mom. Often that
