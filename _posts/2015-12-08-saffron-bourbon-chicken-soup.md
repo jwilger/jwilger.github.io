@@ -8,6 +8,14 @@ excerpt: >
 
 ---
 
+**Update (2015-12-20):** I made this a second time with all the kids here
+and made a couple of tweaks. I've updated the instructions at the end
+accordingly, but in short I a) added diced potatoes, b) doubled the amount
+of chicken, c) sautéd the onions and garlic *before* the chicken, and
+d) used 1/2 cup less chicken broth.
+
+<hr />
+
 Managing food supplies in a household that alternates between weeks
 where there are seven people to feed and weeks where there are only
 three of us here generally means we have one week where the menu has
@@ -52,17 +60,17 @@ while you read the rest...
 
 * 2 lbs of mixed, frozen vegetable (I used a mix containing corn,
   carrots, green beans, and Lima beans)
-* 2 large, boneless, skinless chicken breasts, cubed
+* 3 yukon gold potatoes, washed and diced
+* 4 large, boneless, skinless chicken breasts, cubed
 * 1 tablespoon Kosher salt
 * 1 tablespoon Garlic powder
-* 1 tablespoon olive oil
+* 2 tablespoons olive oil
 * 1 tablespoon butter
 * 1 large, yellow onion, sliced (pole-to-pole)
 * 2 large cloves of elephant garlic, minced
-* "some" bourbon (I didn't measure it, but it was probably somewhere
-  between 1/3 to 1/2 of a cup)
+* 1/2 cup bourbon
 * 1 can of diced tomatoes
-* 32oz chicken stock (the kind with salt and other stuff in it, not
+* 28oz chicken stock (the kind with salt and other stuff in it, not
   plain chicken broth)
 * 1 tsp ground black pepper
 * 1/2 teaspoon ground thyme
@@ -75,36 +83,39 @@ while you read the rest...
 
 2. Toss the cubed chicken with salt and garlic powder.
 
-3. Heat the butter and olive oil in a heavy-bottomed skillet (cast-iron
-   if you have it) over medium-high heat.
+3. Heat 1 tbsp olive oil and the butter in a heavy-bottomed skillet (cast-iron
+   if you have it) over medium-low heat.
 
-4. Once the skillet is hot, add the chicken and sauté until just
+4. Sauté the onions until they start to give up their moisture, then add
+   the garlic and continue to sauté until the garlic starts to turn
+   golden-brown (don't let it burn!)
+
+5. Remove the onions and garlic to the pressure cooker pot.
+
+6. Increase the heat to medium high, and add the remaining tablespoon of olive oil.
+
+7. Once the skillet is hot, add the chicken and sauté until just
    browned, before the outside becomes tough (it does not need to be
    fully-cooked).
 
-5. Move cooked chicken to the pressure-cooker pot.
+8. Move cooked chicken to the pressure-cooker pot.
 
-6. Reduce heat to medium-low and add onions and garlic. Sauté for about
-   two minutes, removing the onions and the garlic to the
-   pressure-cooker pot once the garlic just starts turning golden-brown.
-   (Any longer, and it will go bitter. Blech!)
+9. Thoroughly deglaze the skillet with the bourbon, and add the resulting
+   sauce to the pressure-cooker pot.
 
-7. Increase heat to medium-high, thoroughly deglaze the skillet with the
-   bourbon, and add the resulting sauce to the pressure-cooker pot.
+19. Drain the vegetables and add them to the pressure-cooker pot along
+    with the diced tomatoes, chicken stock, black pepper, thyme, and
+    saffron.
 
-8. Drain the vegetables and add them to the pressure-cooker pot along
-   with the diced tomatoes, chicken stock, black pepper, thyme, and
-   saffron.
+11. Bring the pressure-cooker up to pressure, and let the soup cook for
+    35 minutes. (I use an [Instant Pot][instant-pot], which has a button
+    for "Stew/Meat" that I used for this.)
 
-9. Bring the pressure-cooker up to pressure, and let the soup cook for
-   35 minutes. (I use an [Instant Pot][instant-pot], which has a button
-   for "Stew/Meat" that I used for this.)
-
-10. After 35 minutes, release the pressure, and—once it is safe to do
+12. After 35 minutes, release the pressure, and—once it is safe to do
     so—remove the lid.
 
-11. Stir in the lemon juice, and serve.
+13. Stir in the lemon juice, and serve.
 
-I'd say this makes enough for around 6-8 bowls of soup.
+I'd say this makes enough for around 10-12 bowls of soup.
 
 [instant-pot]: http://instantpot.com
