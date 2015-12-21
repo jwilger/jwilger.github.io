@@ -8,14 +8,6 @@ excerpt: >
 
 ---
 
-**Update (2015-12-20):** I made this a second time with all the kids here
-and made a couple of tweaks. I've updated the instructions at the end
-accordingly, but in short I a) added diced potatoes, b) doubled the amount
-of chicken, c) sautéd the onions and garlic *before* the chicken, and
-d) used 1/2 cup less chicken broth.
-
-<hr />
-
 Managing food supplies in a household that alternates between weeks
 where there are seven people to feed and weeks where there are only
 three of us here generally means we have one week where the menu has
@@ -55,6 +47,12 @@ tender.
 
 The result was astoundingly good. I think I'll go back for another bowl
 while you read the rest...
+
+**Update (2015-12-20):** I made this a second time with all the kids here
+and made a couple of tweaks. I've updated the instructions at the end
+accordingly, but in short I a) added diced potatoes, b) doubled the amount
+of chicken, c) sautéd the onions and garlic *before* the chicken, and
+d) used 1/2 cup less chicken broth.
 
 ## Ingredients ##
 
