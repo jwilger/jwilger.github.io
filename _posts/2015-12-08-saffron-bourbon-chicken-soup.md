@@ -102,8 +102,8 @@ d) used 1/2 cup less chicken broth.
    sauce to the pressure-cooker pot.
 
 19. Drain the vegetables and add them to the pressure-cooker pot along
-    with the diced tomatoes, chicken stock, black pepper, thyme, and
-    saffron.
+    with the diced potatoes, diced tomatoes, chicken stock, black pepper,
+    thyme, and saffron.
 
 11. Bring the pressure-cooker up to pressure, and let the soup cook for
     35 minutes. (I use an [Instant Pot][instant-pot], which has a button
