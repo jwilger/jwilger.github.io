@@ -2,10 +2,12 @@
 title: "Portal Adventure: Session One"
 date: 2015-12-07T10:36:28-0800
 excerpt: >
+
   This is the first post in an ongoing series in which I talk about the
   development of "Portal Adventure", a text-based adventure game that my
   10-year-old son and I are writing in order to help him learn about
-  programming.
+  programming. **See other posts in this series:**
+  [2](/2015/12/22/portal-adventure-implementing-commands.html)
 
 ---
 
