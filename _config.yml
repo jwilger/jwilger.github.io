@@ -13,7 +13,7 @@ safe: true
 lsi: false
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 
 paginate: 20
 
