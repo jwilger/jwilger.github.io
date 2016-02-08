@@ -8,14 +8,8 @@ url: "http://johnwilger.com" # the base hostname & protocol for your site
 twitter_username: jwilger
 github_username:  jwilger
 
-highlighter: pygments
-safe: true
-lsi: false
-
-# Build settings
-markdown: redcarpet
-
 paginate: 20
+gems: [jekyll-paginate]
 
 defaults:
   -
