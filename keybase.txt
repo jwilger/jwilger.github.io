@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/johnwilger
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://johnwilger.com
+  * I am johnwilger (https://keybase.io/johnwilger) on keybase.
+  * I have a public key with fingerprint E938 C913 259D EC12 FF0C  CF6B E749 3168 FF48 EEB8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a46603be0351dd16c5dc37a9f9b772e57de10fb98c4543d42c7e3310b5c3a55a0a",
+            "fingerprint": "e938c913259dec12ff0ccf6be7493168ff48eeb8",
+            "host": "keybase.io",
+            "key_id": "e7493168ff48eeb8",
+            "kid": "0101a46603be0351dd16c5dc37a9f9b772e57de10fb98c4543d42c7e3310b5c3a55a0a",
+            "uid": "1b4c11fd4a79ced752dfec50e114a419",
+            "username": "johnwilger"
+        },
+        "service": {
+            "hostname": "johnwilger.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1469709435,
+    "expire_in": 157680000,
+    "prev": "5a2ffa7995a580ecb37ec3ae40843c3ab2839a8b59fd041cc08815ab895243d9",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBRRGF5b7SIEPZZE0DxoF5M5O+fszNmQssjCskArIaXtzJkz7uQ6
+s+2Mq8uyRCLqavRgEZmm3WyDqOgGWQlm0ZWuIPmQ+RKFBQVBdkGkM1JP9dh5Oef8
+5/u+830//925Xk92xhhJvGztOuTLeHz7aJ2nonMykRBUS4sLgYRQw6Y3FtaY7QRr
+DE0ICCIQAYF+vyipTJQQ0DTgp0ijkkywjlVZ9jEkawyIuooVChGUNOijMpMkIKqI
+SgQhIhIhX9ANs5pFI1HDdLgsw5JCMZB8CGuMAp+ui5TqfpXJEEvAr+g6VBhTFU4M
+WbbL4OZUYrMCw+I1fglO2/sH/j/7rpuWAyqkAOgaJDKmTJORT9MZRSIDABIIsAu0
+WdQktYyjd1shs94I87xCMl/g9ZhBmdtaN8tfmAJq1XJ+JGo5FrXC/C3kOJGAS3Xi
+ERdbz9Tgb5WgapgabyUnxFjUNixTCACOpI7hygLox7KIoYTyBdYQMaIsaLgIJPsV
+kS/3GxbjkojwnvMwGBGkiIyqksx4agZFBUr8oPoUCRNFRVjXRAgoFRUFIKIqGPl4
+r9zANttjWkIAcpukmkvaRrVJnLooE5JDg1WZnoxsz8ysGe6IebLnzPszeK2jsz3X
+i3NS79HdslBF3iMT6WeGL70+Xd/8Npwx+eLL577SI58qcovi2wue9hw/+KSd/Nj1
+cuBCoDKTLJw6sHnj9zdnmjpWzHrR693aGxbu7cvyLu5rLJpIDp/vf9Vdvg2nqoq6
+l7Z8Tby7n9ude3aEXj4xlj1+vPFsqqHPbttv95fklHd1wk2S/q3yec37a9umVm61
+njevXdSgFsZi4fiaZLzM613esXho3cNLN0/teNLyLHK1beLiyZ1D6zcUloTSW0r3
+3qhsf7CKfBg10slzt1PLqq44PwY/ppt+HovcWpK6Xpw5ssC8M7zgDo4MWPNXp9Oj
+rXn3Rz0547kXW9tnlyd6Dk/8AiFKSXc=
+=YalU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johnwilger
+
+==================================================================
