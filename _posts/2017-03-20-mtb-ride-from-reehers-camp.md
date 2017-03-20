@@ -3,8 +3,10 @@ layout: post
 title: MTB Ride from Reehers Camp
 date: Mon Mar 20 12:39:18 PDT 2017
 excerpt: |
-  <img src="/images/2017/03/trail-skeleton.jpg" height="200"/>
-  <p>This was definitely the most interesting thing I've ever seen on a bike ride.</p>
+  <img src="/images/2017/03/trail-skeleton.jpg" width="600"/>
+  <p>Dublin and I went for a mountain-bike ride on the Triple C and Gales Creek
+  trails out of Reehers Camp this weekend, and encountered the most interesting
+  thing I've ever seen on a bike ride.</p>
 ---
 
 Dublin has been itching to get out on a good mountain bike ride for a while now,
@@ -60,7 +62,7 @@ Not too far in to this part of the trail, we came across a really cool looking
 skeleton:
 
 <a href="/images/2017/03/trail-skeleton.jpg" target="_new"><img
-src="/images/2017/03/trail-skeleton.jpg" height="200"/></a>
+src="/images/2017/03/trail-skeleton.jpg" width="600"/></a>
 
 It was pretty fresh; the bones looked like they had only been picked clean
 within the last day or so, and they still had all the tendons connecting them
