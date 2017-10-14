@@ -8,6 +8,8 @@ url: "http://johnwilger.com" # the base hostname & protocol for your site
 twitter_username: jwilger
 github_username:  jwilger
 
+exclude: [Gemfile, Gemfile.lock, README.md, vendor, org, .hyde.el]
+
 kramdown:
  input: GFM
  hard_wrap: false
