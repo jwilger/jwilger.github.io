@@ -221,6 +221,12 @@ body {
     }
 }
 
+.post-list, summary {
+    a.footnote, .footnotes {
+        display: none;
+    }
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
 
@@ -272,6 +278,19 @@ body {
             margin-left: auto;
             flex-grow: 2;
         }
+    }
+
+    .footnotes {
+        clear: both;
+        font-size: 0.75em;
+        border-top: 1px solid gray;
+        margin-top: 1em;
+        padding-top: 0.5em;
+    }
+
+    .footnotes:before {
+        content: 'Footnotes:';
+        font-weight: bold;
     }
 }
 
