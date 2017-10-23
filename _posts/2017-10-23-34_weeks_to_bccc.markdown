@@ -7,7 +7,7 @@ excerpt: |
   My goal between now and the end of the year is to maintain a moderate amount
   of fitness and to get my weight and body-fat percentage within a range that I
   think will set me up well to hit my ultimate racing-weight goal. Cyclocross is
-  helpin to maintain the fitness, but I'm struggling (as usual) with the diet.
+  helping to maintain the fitness, but I'm struggling (as usual) with the diet.
 ---
 
 The "real" training[^realtraining] for [Baker City Cycling Classic][BCCC]
