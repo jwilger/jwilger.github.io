@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Race Report: 2018 Cherry Pie, Men 4/5"
+excerpt: |
+  This was probably the best-prepared I've ever really been for a bike
+  race...For the first lap-and-a-half, my plan worked out great.
+
 ---
 
 This was probably the best-prepared I've ever really been for a bike race. I've
