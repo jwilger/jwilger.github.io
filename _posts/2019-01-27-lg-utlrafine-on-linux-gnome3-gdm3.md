@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using the 27" LG Utrafine 5k Display with Linux
+title: Using the 27" LG UltraFine 5k Display with Linux
 
 excerpt: >
   I'm happy to report that we *did* get the monitor working great with Linux
@@ -23,7 +23,7 @@ what technology is available today and was able to give great advice in terms of
 picking out the processor, motherboard, and video card.
 
 We had one particular challenge, though, in building this system. Last year, I
-bought one of the new 27" LG Ultrafine 5k displays to use with my Macbook. It's
+bought one of the new 27" LG UltraFine 5k displays to use with my Macbook. It's
 truly a beautiful display in terms of picture quality, and...well...it was
 pretty darned expensive, too. What I stupidly didn't realize at the time is that
 it *only* has a Thunderbolt input and would pretty much only work "out of the
