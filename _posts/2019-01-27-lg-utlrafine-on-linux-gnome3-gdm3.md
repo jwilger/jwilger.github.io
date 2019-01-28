@@ -60,7 +60,7 @@ Here is the part-list for the build:
 * Storage: Samsung 970 Evo 250 GB M.2-2280 Solid State Drive
 * Video Card: Asus GeForce GTX 1070 8 GB STRIX Video Card
 * Case: Corsair 760T Black ATX Full Tower Case
-* Power Supply: EVGA SuperNOVA G2 650 W 80+ Gold Cerified Fully-Module ATX
+* Power Supply: EVGA SuperNOVA G2 650 W 80+ Gold Cerified Fully-Modular ATX
 * Wireless Adapter: Gigbyte GC-WB867D-I PCI-Express x1 802.11a/b/g/n/ac WiFi
     Adapter
 * Thunderbolt AIC: Asus ThunderboltEX 3
@@ -210,7 +210,8 @@ EndSection
 ```
 
 In *both* `$HOME/.config/monitors.xml` *and*
-`/var/lib/gdm3/.config/monitors.xml`:
+`/var/lib/gdm3/.config/monitors.xml` (my guess is that you'll need to change the
+value for `<serial>` here to the serial number for your actual monitor):
 
 ```xml
 <monitors version="2">
