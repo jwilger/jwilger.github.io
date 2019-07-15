@@ -5,9 +5,9 @@ title: Rodeo Labs Trail Donkey 3.0 - Initial Impressions
 excerpt: >
   <img src="/images/2019/rodeo-td3-gravel.jpg">
 
-  The Trail Donkey 3.0 from Rodeo Labs is a bike that seems to be begging you to take it outside
-  of its comfort zone. It may not be _great_ at everything, but it is willing to try just about
-  anything _once_.
+  The Trail Donkey 3.0 from Rodeo Labs is a very capable adventure bike that seems to be begging
+  you to take it outside of its comfort zone. It may not be great at *everything*, but it is
+  willing to try just about *anything* once.
 
 ---
 
@@ -287,6 +287,6 @@ on many different types of rides; additional wheelsets and tire choices take up 
 full bikes, after all. Its sweet spot seems to be toward the more adventurous end of gravel riding
 and XC 29er territory (probably cyclocross racing, too; I just don't have personal experience with
 it in that environment yet.) However, the Trail Donkey 3.0 is also a bike that seems to be begging
-you to take it outside of its comfort zone. It may not be _great_ at everything, but it is willing
-to try just about anything _once_ (except for that track stuff, of course; those people are nuts.
+you to take it outside of its comfort zone. It may not be great at *everything*, but it is willing
+to try just about *anything* once (except for that track stuff, of course; those people are nuts.
 😉)
