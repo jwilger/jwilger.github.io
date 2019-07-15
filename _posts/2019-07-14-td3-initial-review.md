@@ -12,7 +12,7 @@ excerpt: >
 ---
 
 Before getting into the review itself, I think it's important to give some context, because the
-type of rider one is and type of riding one does (or desires to do) is a lense that is of course
+type of rider one is and type of riding one does (or desires to do) is a lens that is of course
 going to color how one sees any given bike. Feel free to skip ahead to the next section
 ("Considering the Donkey") if you just want to hurry up and get to the bike.
 
@@ -32,7 +32,7 @@ less-crowded gravel logging roads that are all over the coastal range where I li
 some mountain biking in the past but never really fell in love with it. It wasn't that I didn't
 like riding on trails; honestly, I just never cared for the *bikes*. I've never found flat bars
 comfortable for one thing, but there's also just something ineffable about that type of bike that
-doesn't appeal to me. (No judgement against folks who like them; it's like preffering a different
+doesn't appeal to me. (No judgement against folks who like them; it's like preferring a different
 sort of ice cream. Nothing wrong with cherry cordial, I just would rather eat mint chocolate
 chip.)
 
@@ -47,7 +47,7 @@ incorporating more dirt trails into my gravel adventures, even taking the bike o
 intermediate trails at the local MTB park. I found myself wanting something a little more nimble
 than the Crossrip, which has a geometry geared more toward stability than quick handling.
 
-The next bike I got was a Specialized Diverge. It was definitly more nimble in its handling, and a
+The next bike I got was a Specialized Diverge. It was definitely more nimble in its handling, and a
 pretty good bike for pure gravel riding, but it ended up not being a great fit for the more
 dirt-oriented riding that I wanted to do, primarily because it has some of the worst toe-overlap
 that I've ever experienced. I don't have big feet—in fact, they are on the small side—and yet even
@@ -103,7 +103,7 @@ I ran into a couple of small issues along the way. The first hurdle was that the
 converted from its default configuration of 15mm thru axle to 12mm thru axle as I had requested.
 Since I already have three wheelsets that are 12mm, I don't have much interest in switching to
 15mm, despite the fact that it would open up the use of a wide variety of relatively inexpensive
-MTB wheels. I emailed Rodeo Labs to let them know about the mixup, and they immediately responded
+MTB wheels. I emailed Rodeo Labs to let them know about the mix-up, and they immediately responded
 that they were going to send out the necessary parts and the tool to switch them out.
 
 I also sent Stephen a picture of a part of the frame where there was an imperfection in the paint
@@ -167,7 +167,7 @@ The other components used in the build include:
 I also have a set of Bontrager Aeolus 50mm wheels set up with their R4 open tubulars and latex
 tubes that can be used on this bike for fast, pavement-only rides.
 
-Putting it all together was a straighforward process, although I did accidentally pull out the
+Putting it all together was a straightforward process, although I did accidentally pull out the
 factory-installed guide for the rear brake line and had to fish the hydraulic hose through the
 frame unassisted (home-bike-mechanic achievement unlocked!) I ran into a small issue with the
 little plate that screws into the frame to adapt the opening where the rear brake hose enters
@@ -260,7 +260,7 @@ responsive without being twitchy shined through, and the bike was a pleasure to 
 never feeling sloppy or out of control. On my practice sprint segment, I was able to come in just
 a few seconds slower than the best time that I have ridden it on my Madone, and it felt like a
 solid platform on which to launch a sprint effort. Aside from the off-road benefits of the shallow
-bottom-bracket drop, that also ends up benefitting the on-road riding. The low BB on the Diverge
+bottom-bracket drop, that also ends up benefiting the on-road riding. The low BB on the Diverge
 always made me a bit nervous about pedaling through corners if I was riding on 25mm tires, but the
 Trail Donkey handled this situation just fine. Again, I probably wouldn't take this bike to
 race a 100-mile road race stage, but I think it would make a fairly good partner in the local crit
@@ -270,7 +270,7 @@ series.
 
 The level of personal service you get when buying a bike from Rodeo Labs is impressive. Yes, there
 were some hiccups along the way, but the communication was great from the start, and Stephen
-clearly is personaly invested in making sure his customers are happy. I get the strong impression
+clearly is personally invested in making sure his customers are happy. I get the strong impression
 that, should I happen to encounter any issues with the frameset, Rodeo Labs will continue to
 provide that same level of support down the road. The Trail Donkey is a passion project, and that
 shows in both the thoughtful design of the frameset itself as well as in the way Rodeo Labs talks
