@@ -66,6 +66,13 @@ steering than an endurance geometry usually offers.
 
 ## Considering the Donkey
 
+I don't usually write long-form bike reviews, but I decided to write this one because I noticed
+there didn't seem to be much experiential information available on this bike from anyone outside
+of Rodeo Labs; lot's of "oh, I saw this at Sea Otter, and it looks neat," but not a lot of "I've
+had a chance to ride this bike, and here's what I think." I definitely can't claim to be an
+experienced bike-reviewer, but hopefully this will help someone else decide whether the Trail
+Donkey is the right bike for them.
+
 Earlier this year, one of my teammates got a new bike with a funny name; it was the first Trail
 Donkey I'd ever seen, and I was intrigued. I went to [the Rodeo Labs
 website](https://rodeo-labs.com) to find out about the bike. The more I read, the more I liked
@@ -118,8 +125,8 @@ me and that he will pursue the issue to ensure it doesn't happen to someone else
 <figure>
 <img src="/images/2019/rodeo-td3-defect.jpg">
 <figcaption>
-There was a small defect in the paint job on the frameset I received, but Rodeo Labs made things
-right to my satisfaction when I alerted them to the issue.
+There was a small defect in the paint job on the frameset I received, but Rodeo Labs exceeded my
+expectations in order to make things right when I alerted them to the issue.
 </figcaption>
 </figure>
 {::options parse_block_html="true" /}
