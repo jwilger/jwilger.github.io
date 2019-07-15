@@ -86,12 +86,13 @@ about *why* they designed the frameset and brought about its current iteration.
 I checked in with my teammate to make sure he would still recommend the bike after riding his for
 a while (an enthusiastic affirmative), and then I placed the order through their website.
 
-Stephen personally got in touch with me about the order right away.with an expected shipping date
-in the first week of June (order was placed mid-May). We also exchanged several emails regarding
-my plans to build up the bike. (Rodeo Labs will do complete, custom build-outs for you, too, but I
-planned to do the build myself using parts from my current bike.) After confirming that my plans
-made sense, it was time to wait for the frameset to show up. My hope was to have the build
-completed in time to use the bike for the Oregon Trail Gravel Grinder towards the end of June.
+Stephen personally got in touch with me about the order right away and gave me an expected
+shipping date in the first week of June (order was placed mid-May). We also exchanged several
+emails regarding my plans to build up the bike. (Rodeo Labs will do complete, custom build-outs
+for you, too, but I planned to do the build myself using parts from my current bike.) After
+confirming that my plans made sense, it was time to wait for the frameset to show up. My hope was
+to have the build completed in time to use the bike for the Oregon Trail Gravel Grinder towards
+the end of June.
 
 Unfortunately, the frame ended up shipping behind schedule as they had a whole batch hung up
 waiting for the painting process to be completed. Stephen and I exchanged several more emails as
