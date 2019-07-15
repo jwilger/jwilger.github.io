@@ -45,17 +45,28 @@ img {
     vertical-align: middle;
 }
 
-
+ul.post-list li img,
+div.post img {
+  border-radius: 2%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
 
 /**
  * Figures
  */
-figure > img {
+div.post figure > img {
     display: block;
+    border-radius: 2% 2% 0% 0%;
+    margin-bottom: 0;
 }
 
 figcaption {
     font-size: $small-font-size;
+    color: white;
+    background-color: darkgrey;
+    margin: 0;
+    padding: 1em;
 }
 
 
@@ -243,7 +254,8 @@ summary {
   border-top: 1px lightgrey solid;
 }
 
-article > p:first-child:first-letter {
+article > p:first-of-type:first-letter,
+article > section > p:first-of-type:first-letter {
   float: left;
   color: #903;
   font-size: 75px;
