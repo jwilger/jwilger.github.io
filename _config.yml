@@ -13,6 +13,7 @@ exclude: [Gemfile, Gemfile.lock, README.md, vendor, org, .hyde.el]
 kramdown:
  input: GFM
  hard_wrap: false
+ parse_block_html: true
 
 plugins:
  - jekyll-coffeescript
