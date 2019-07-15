@@ -280,9 +280,13 @@ I look forward to using the Trail Donkey for cyclocross this year as well as get
 some more technical single track soon. I'll certainly provide an update once I'm able to do so;
 these are just my initial impressions after the first couple of rides. So far, however, I feel
 like the Trail Donkey is a great bike for the money and would recommend taking a look at it if you
-are in search of a capable bike that can be adapted to a wide variety of riding. Its sweet spot
-seems to be toward the more adventurous end of gravel riding and XC 29er territory (probably
-cyclocross racing, too; I just don't have personal experience with it in that environment yet.)
-But it's also a bike that seems to be begging you to take it outside of its comfort zone. It may
-not be _great_ at everything, but it is willing to try just about anything _once_ (except for that
-track stuff, of course; those people are nuts. 😉)
+are in search of a capable bike that can be adapted to a wide variety of riding. In particular, I
+can see this bike being really useful for someone who has limited space for bike storage (perhaps
+you're in a small apartment, or perhaps you are caravaning around the country) and yet wants to go
+on many different types of rides; additional wheelsets and tire choices take up less space than
+full bikes, after all. Its sweet spot seems to be toward the more adventurous end of gravel riding
+and XC 29er territory (probably cyclocross racing, too; I just don't have personal experience with
+it in that environment yet.) However, the Trail Donkey 3.0 is also a bike that seems to be begging
+you to take it outside of its comfort zone. It may not be _great_ at everything, but it is willing
+to try just about anything _once_ (except for that track stuff, of course; those people are nuts.
+😉)
