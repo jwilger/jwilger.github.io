@@ -268,6 +268,14 @@ series.
 
 ## The Verdict
 
+The level of personal service you get when buying a bike from Rodeo Labs is impressive. Yes, there
+were some hiccups along the way, but the communication was great from the start, and Stephen
+clearly is personaly invested in making sure his customers are happy. I get the strong impression
+that, should I happen to encounter any issues with the frameset, Rodeo Labs will continue to
+provide that same level of support down the road. The Trail Donkey is a passion project, and that
+shows in both the thoughtful design of the frameset itself as well as in the way Rodeo Labs talks
+about the product and is fostering a sense of community among riders of their bikes.
+
 I look forward to using the Trail Donkey for cyclocross this year as well as getting it out on
 some more technical single track soon. I'll certainly provide an update once I'm able to do so;
 these are just my initial impressions after the first couple of rides. So far, however, I feel
@@ -277,4 +285,4 @@ seems to be toward the more adventurous end of gravel riding and XC 29er territo
 cyclocross racing, too; I just don't have personal experience with it in that environment yet.)
 But it's also a bike that seems to be begging you to take it outside of its comfort zone. It may
 not be _great_ at everything, but it is willing to try just about anything _once_ (except for that
-track stuff, of course; those people are nuts. ;->)
+track stuff, of course; those people are nuts. 😉)
