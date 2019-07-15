@@ -170,7 +170,7 @@ tubes that can be used on this bike for fast, pavement-only rides.
 Putting it all together was a straighforward process, although I did accidentally pull out the
 factory-installed guide for the rear brake line and had to fish the hydraulic hose through the
 frame unassisted (home-bike-mechanic achievement unlocked!) I ran into a small issue with the
-little plate that screw into the frame to adapt the opening where the rear brake hose enters
+little plate that screws into the frame to adapt the opening where the rear brake hose enters
 behind the head tube. I had already tightened the plate back onto the frame, and I needed to pull
 the hose a bit to get some slack to hammer in the little insert you put at the end of the
 hydraulic hose. The design of the plate is such that it seems it can snag the hose, and it ended
@@ -251,8 +251,8 @@ that it was terrible, but it wasn't necessarily enjoyable either (I'm admittedly
 as my other bike is a Madone SLR that rides like a dream.) For a ride of maybe an hour or two it
 would be fine, but I think that if you spent an entire day in the saddle in this configuration,
 you'd end up feeling a bit beat up. This could probably be mitigated to some degree by adding a
-more compliant seat post, although I'm not about to remove the internally-routed seat post every
-time I want to road-ride.
+more compliant, carbon seat post and stem, although I'm not about to remove the internally-routed
+dropper post every time I want to road-ride.
 
 Harshness aside, the bike *handled* really nicely. The same stiffness that made the ride a bit
 harsh also meant that the power-transfer is quite efficient. Again that characteristic of being
