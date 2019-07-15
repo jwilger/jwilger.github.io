@@ -170,13 +170,14 @@ tubes that can be used on this bike for fast, pavement-only rides.
 Putting it all together was a straighforward process, although I did accidentally pull out the
 factory-installed guide for the rear brake line and had to fish the hydraulic hose through the
 frame unassisted (home-bike-mechanic achievement unlocked!) I ran into a small issue with the
-frame insert where the rear brake hose enters behind the head tube. I had already screwed the
-insert back into the frame, and I needed to pull the hose a bit to get some slack to hammer in
-the insert. The design of the insert is such that it seems it can snag the hose, and it ended up
-slicing into the plastic, outer housing and peeling off a big section. I had to re-run a new
-length of hose (this time making sure to not screw down the insert until I had everything
-connected on either end). Not a disaster, but this could be avoided if the frame inserts had
-the edges rounded off a bit.
+little plate that screw into the frame to adapt the opening where the rear brake hose enters
+behind the head tube. I had already tightened the plate back onto the frame, and I needed to pull
+the hose a bit to get some slack to hammer in the little insert you put at the end of the
+hydraulic hose. The design of the plate is such that it seems it can snag the hose, and it ended
+up slicing into the plastic, outer housing and peeling off a big section. I had to re-run a new
+length of hose (this time making sure to not screw down the plate until I had everything
+connected on either end). Not a disaster, but this could be avoided if the frame plates had their
+edges rounded off a bit.
 
 </section>
 
