@@ -11,6 +11,16 @@ excerpt: >
 
 ---
 
+<section class="updates">
+
+**UPDATE 2019-07-22:** *I made a few updates to the section "The Build", below, and also added a
+couple additional notes regarding the Trail Donkey's road-worthiness in the "Road Riding"
+section.*
+
+</section>
+
+<section>
+
 Before getting into the review itself, I think it's important to give some context, because the
 type of rider one is and type of riding one does (or desires to do) is a lens that is of course
 going to color how one sees any given bike. Feel free to skip ahead to the next section
@@ -61,6 +71,8 @@ want to do and what I want out of a bike. I really enjoy long rides that incorpo
 dose of dirt riding that verges on mountain bike territory, so I wanted a bike that could fit big
 tires. I wanted something that wasn't quite as twitchy as a cyclocross bike but with quicker
 steering than an endurance geometry usually offers.
+
+</section>
 
 <section>
 
@@ -158,7 +170,9 @@ The rear cable routing not only looks tidy but also tucks the cable out of harm'
 
 The other components used in the build include:
 
-* Jagwire Road Elite Sealed Shift Cables/Housing
+* ~~Jagwire Road Elite Sealed Shift Cables/Housing~~ *(This was absolutely the wrong cable housing
+    to use for this bike, because the rear derailleur actually requires a full housing run from
+    the shifters to the derailleur. See below.)*
 * an Easton EC90 SL CINCH chainset with 47/32 rings and the power meter spindle
 * Ultegra 11-32 cassette
 * Wheels Manufacturing T47 outboard BB for 30mm spindle
@@ -186,6 +200,34 @@ up slicing into the plastic, outer housing and peeling off a big section. I had 
 length of hose (this time making sure to not screw down the plate until I had everything
 connected on either end). Not a disaster, but this could be avoided if the frame plates had their
 edges rounded off a bit.
+
+<section class="updates">
+
+### UPDATE 2019-07-22:
+
+After a couple of rides, I realized that my rear shifting was getting sloppy. I looked at the
+derailleur and found that the back section of cable housing had pushed *into* the frame past the
+housing stop...or so I thought. I contacted Stephen to find out what I might be doing wrong, and I
+found out that the frame actually **requires a full run of cable housing from shifter to rear
+derailleur**; there are, in fact, no housing stops at all! You would think this would be obvious
+during installation, however the Jagwire Road Elite Sealed Shift Housing uses a 5mm housing
+instead of the more typical 4mm housing. This extra width on the cable housing was just enough to
+make it "stop" at the places where the cable is supposed to enter the frame, so everything seemed
+find during installation and for a few rides, but then all of the bouncing around and shifting
+caused the housing to gradually work its way through the opening in the seat stay and the shift
+cable became too slack.
+
+The best part is that the plastic housing end got pushed up into the seat stay and then became
+firmly stuck inside the frame! After some trial, error, and a lot of cursing, I was able to remove
+it by inserting a straightened-out, wire coat-hanger into the opening on the top-tube near the seat
+post and then plunging it down the seat stay until it pushed the plastic piece out.
+
+I installed the full housing run as I should have in the first place, and now everything is
+working again. I did suggest to Stephen that taping a note to the frame at the spot where the
+cable enters it stating that a full housing run is necessary would be an easy way to prevent
+someone else from doing this in the future.
+
+</section>
 
 </section>
 
@@ -223,6 +265,8 @@ on the amazing surroundings or the fun bit of road/trail that you're on rather t
 equipment. I'm really looking forward to more days in the donkey-saddle.
 
 </section>
+
+<section>
 
 ## Road Riding
 
@@ -274,6 +318,26 @@ Trail Donkey handled this situation just fine. Again, I probably wouldn't take t
 race a 100-mile road race stage, but I think it would make a fairly good partner in the local crit
 series.
 
+<section class="updates">
+
+### UPDATE 2019-07-22:
+
+I chatted a bit more with Stephen after he had a chance to read the initial review, and he
+mentioned that when he rides his own Trail Donkey as a road bike, he generally uses slightly
+higher-volume tires such as a 28mm tire at 60psi as opposed to my 25mm tire at 90psi. That change
+would certainly have some effect on the road feel and may well be enough to overcome any of my
+complaints in that category. And given the TD3's clearance, there's no reason you couldn't even go
+all the way to a 32mm slick for longer touring/commuting and make the ride even more compliant.
+
+I'll be sure to give it another try on the road with a higher-volume road tire and update my
+findings after that happens.
+
+</section>
+
+</section>
+
+<section>
+
 ## The Verdict
 
 The level of personal service you get when buying a bike from Rodeo Labs is impressive. Yes, there
@@ -298,3 +362,5 @@ it in that environment yet.) However, the Trail Donkey 3.0 is also a bike that s
 you to take it outside of its comfort zone. It may not be great at *everything*, but it is willing
 to try just about *anything* once (except for that track stuff, of course; those people are nuts.
 😉)
+
+</section>
