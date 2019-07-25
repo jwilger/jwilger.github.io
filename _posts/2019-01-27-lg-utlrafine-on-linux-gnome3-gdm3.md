@@ -10,6 +10,19 @@ excerpt: >
 
 ---
 
+<section class="updates">
+
+**UPDATE 2019-07-25:**
+
+Based on some comments made on the original post below, I swapped out the Asus ThunderboltEX 2 AIC
+for a Gigabyte GC-Titan Ridge Thunderbolt AIC that supports two DisplayPort inputs. I'm happy to
+report that I can now use the monitor in full 5k resolution *and* that X11, GDM, and Gnome were
+able to autodetect all of the correct settings (after removing the `/etc/X11/xorg.conf`,
+`$HOME/.config/monitors.xml`, and `/var/lib/gdm3/.config/monitors.xml` files in order to get the
+autodetection to kick in.)
+
+</section>
+
 Lachlan and I built a new desktop PC this past weekend (something I haven't done
 in probably 15 years). Over the past couple of years, I've grown more and more
 annoyed with some of the choices Apple has been making with MacOS that have made
