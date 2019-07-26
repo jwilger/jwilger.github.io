@@ -23,6 +23,27 @@ autodetection to kick in.)
 
 </section>
 
+<section class="updates">
+
+**UPDATE 2019-07-26:**
+
+Interestingly, the computer stopped recognizing the USB devices (speaker and microphone) in the
+monitor with the new, GC-Titan Ridge TB3 AIC installed. With the previous AIC, I did not
+specifically turn on any of the Discrete Thunderbolt Support options in the BIOS and everything
+was working fine. It would seem, however, that this AIC requires some BIOS settings to get
+everything working.
+
+I found [these directions for setting up TB3 in the Asus Prime Z390-A
+BIOS](https://www.technopat.net/konu/success-prime-z390-a-9900k-thunderbolt-3-macos-10-14.651013).
+In this case, the author was attempting to configure the BIOS for a Hackintosh build, but I
+cargo-culted the setup anyway with the exception of setting the Windows 10 Thunderbolt Support
+(when I attempted to set that to the specified value, the BIOS utility just froze up completely.)
+
+After changing those BIOS settings, the USB audio in the monitor was detected just fine on
+startup.
+
+</section>
+
 Lachlan and I built a new desktop PC this past weekend (something I haven't done
 in probably 15 years). Over the past couple of years, I've grown more and more
 annoyed with some of the choices Apple has been making with MacOS that have made
