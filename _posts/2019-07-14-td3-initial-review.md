@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Rodeo Labs Trail Donkey 3.0 - Initial Impressions
+title: Rodeo Labs Traildonkey 3.0 - Initial Impressions
 
 excerpt: >
   <img src="/images/2019/rodeo-td3-gravel.jpg">
 
-  The Trail Donkey 3.0 from Rodeo Labs is a very capable adventure bike that seems to be begging
+  The Traildonkey 3.0 from Rodeo Labs is a very capable adventure bike that seems to be begging
   you to take it outside of its comfort zone. It may not be great at *everything*, but it is
   willing to try just about *anything* once.
 
@@ -14,7 +14,7 @@ excerpt: >
 <section class="updates">
 
 **UPDATE 2019-07-22:** *I made a few updates to the section "The Build", below, and also added a
-couple additional notes regarding the Trail Donkey's road-worthiness in the "Road Riding"
+couple additional notes regarding the Traildonkey's road-worthiness in the "Road Riding"
 section.*
 
 </section>
@@ -150,7 +150,7 @@ expectations in order to make things right when I alerted them to the issue.
 
 ## The Build
 
-My original plan had been to build up the Trail Donkey with Di2 shifting, but I ended up using the
+My original plan had been to build up the Traildonkey with Di2 shifting, but I ended up using the
 mechanical Ultegra components from the Diverge. I may still go with Di2 in the end, but I decided
 that I'd wait until I could get a look at the new GRX groupset from Shimano. For the most part,
 setting up the groupset is fairly standard, however there is one thing Rodeo Labs did with the
@@ -240,7 +240,7 @@ someone else from doing this in the future.
 <figure>
 <img src="/images/2019/rodeo-td3-gravel.jpg">
 <figcaption>
-The Trail Donkey 3.0 is everything I was looking for in a bike for my adventures away from paved
+The Traildonkey 3.0 is everything I was looking for in a bike for my adventures away from paved
 roads.
 </figcaption>
 </figure>
@@ -254,7 +254,7 @@ far from the *hardest* gravel route out there, nor is it the most technical, but
 reasonably representative route that I've done often enough to allow me to compare how the Trail
 Donkey handled it vs. my other bikes.
 
-To put it bluntly, the Trail Donkey 3.0 is everything I was looking for in a bike for my
+To put it bluntly, the Traildonkey 3.0 is everything I was looking for in a bike for my
 adventures away from paved roads. The ability to clear 50mm tires and run them at a plush 15psi
 allowed the bumps in the road to melt away and corners to be taken confidently. Handling is crisp
 without feeling twitchy, and I felt connected to the ride but not beat up by it. It also has
@@ -275,14 +275,14 @@ equipment. I'm really looking forward to more days in the donkey-saddle.
 <figure>
 <img src="/images/2019/rodeo-td3-road.jpg">
 <figcaption>
-The Trail Donkey 3.0 is definitely not the best road bike I've ever been on, but it's not bad,
+The Traildonkey 3.0 is definitely not the best road bike I've ever been on, but it's not bad,
 either. If I could only own one bike, this one would definitely be on my short list.
 </figcaption>
 </figure>
 
 {::options parse_block_html="true" /}
 
-One of the selling points of the Trail Donkey is that it's intended to be a single bike that is
+One of the selling points of the Traildonkey is that it's intended to be a single bike that is
 capable of doing most kinds of riding, whether you want to race it in a cyclocross race, spend
 long days riding gravel, use it as a drop-bar hard-tail mountain bike, go bike-packing,
 or—yes—even join a fast road ride. Although I have another road bike that I'll use for the last of
@@ -314,7 +314,7 @@ a few seconds slower than the best time that I have ridden it on my Madone, and 
 solid platform on which to launch a sprint effort. Aside from the off-road benefits of the shallow
 bottom-bracket drop, that also ends up benefiting the on-road riding. The low BB on the Diverge
 always made me a bit nervous about pedaling through corners if I was riding on 25mm tires, but the
-Trail Donkey handled this situation just fine. Again, I probably wouldn't take this bike to
+Traildonkey handled this situation just fine. Again, I probably wouldn't take this bike to
 race a 100-mile road race stage, but I think it would make a fairly good partner in the local crit
 series.
 
@@ -323,7 +323,7 @@ series.
 ### UPDATE 2019-07-22:
 
 I chatted a bit more with Stephen after he had a chance to read the initial review, and he
-mentioned that when he rides his own Trail Donkey as a road bike, he generally uses slightly
+mentioned that when he rides his own Traildonkey as a road bike, he generally uses slightly
 higher-volume tires such as a 28mm tire at 60psi as opposed to my 25mm tire at 90psi. That change
 would certainly have some effect on the road feel and may well be enough to overcome any of my
 complaints in that category. And given the TD3's clearance, there's no reason you couldn't even go
@@ -344,21 +344,21 @@ The level of personal service you get when buying a bike from Rodeo Labs is impr
 were some hiccups along the way, but the communication was great from the start, and Stephen
 clearly is personally invested in making sure his customers are happy. I get the strong impression
 that, should I happen to encounter any issues with the frameset, Rodeo Labs will continue to
-provide that same level of support down the road. The Trail Donkey is a passion project, and that
+provide that same level of support down the road. The Traildonkey is a passion project, and that
 shows in both the thoughtful design of the frameset itself as well as in the way Rodeo Labs talks
 about the product and is fostering a sense of community among riders of their bikes.
 
-I look forward to using the Trail Donkey for cyclocross this year as well as getting it out on
+I look forward to using the Traildonkey for cyclocross this year as well as getting it out on
 some more technical single track soon. I'll certainly provide an update once I'm able to do so;
 these are just my initial impressions after the first couple of rides. So far, however, I feel
-like the Trail Donkey is a great bike for the money and would recommend taking a look at it if you
+like the Traildonkey is a great bike for the money and would recommend taking a look at it if you
 are in search of a capable bike that can be adapted to a wide variety of riding. In particular, I
 can see this bike being really useful for someone who has limited space for bike storage (perhaps
 you're in a small apartment, or perhaps you are caravaning around the country) and yet wants to go
 on many different types of rides; additional wheelsets and tire choices take up less space than
 full bikes, after all. Its sweet spot seems to be toward the more adventurous end of gravel riding
 and XC 29er territory (probably cyclocross racing, too; I just don't have personal experience with
-it in that environment yet.) However, the Trail Donkey 3.0 is also a bike that seems to be begging
+it in that environment yet.) However, the Traildonkey 3.0 is also a bike that seems to be begging
 you to take it outside of its comfort zone. It may not be great at *everything*, but it is willing
 to try just about *anything* once (except for that track stuff, of course; those people are nuts.
 😉)
