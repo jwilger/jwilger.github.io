@@ -158,10 +158,8 @@ reserve a room that is already reserved for the given time period, we want the
 Clearly, according to the business rules for the system, we can't just put a unique index on the
 `room_id` column. To the best of my knowledge, an exclusion constraint also won't work here,
 because of the need to *not* check against any rows that have a status of "hold" and an
-`inserted_at` timestamp that is more than 24 hours ago relative to the current time (if I'm wrong
-about being able to use an exclusion constraint here, please let me know in the comments; I admit
-to not having a ton of experience with how that particular type of constraint can be defined.) It
-*is* however possible to use a trigger function to enforce the constraint in the database:
+`inserted_at` timestamp that is more than 24 hours ago relative to the current time. It *is*
+however possible to use a trigger function to enforce the constraint in the database:
 
 ```elixir
 defmodule Meetings.Repo.Migrations.CreateRoomReservations do
@@ -248,6 +246,8 @@ defmodule Meetings.RoomReservation do
   end
 end
 ```
+
+### TL;DR - It's All About the Raise
 
 Knowing that `Ecto.Changeset.unique_constraint/3` works by intercepting an error raised by the
 database, I set out to see if I could implement the complex unique constraint logic in the
