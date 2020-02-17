@@ -1,11 +1,10 @@
 # Site settings
 title: John Wilger
-email: johnwilger@gmail.com
+email: john@johnwilger.com
 description: > # this means to ignore newlines until "baseurl:"
   The personal website of John Wilger; Dad, Cyclist, Software Developer
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://johnwilger.com" # the base hostname & protocol for your site
-twitter_username: jwilger
 github_username:  jwilger
 
 exclude: [Gemfile, Gemfile.lock, README.md, vendor, org, .hyde.el]
